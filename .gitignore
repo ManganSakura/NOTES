@@ -1,0 +1,12 @@
+# 忽略 Obsidian 的工作区缓存（必须忽略，否则每次打开窗口布局变了都会导致冲突）
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/workspace-mobile.json
+
+# 如果你完全不想上传插件和设置，取消下面这行的注释
+.obsidian/
+
+# 忽略系统生成文件
+.DS_Store
+Thumbs.db
